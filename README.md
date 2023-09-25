@@ -1,2 +1,2 @@
-# Merge-Conflits
+LOCAL
 Ceci est un test
